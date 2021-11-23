@@ -1,0 +1,29 @@
+{
+  "name": "lukassvoboda-layouts",
+  "version": "2.0.0",
+  "description": "lukassvoboda html layouts",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-avif": "^1.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-image-resize": "^0.13.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-webp": "^4.0.1",
+    "imagemin-avif": "^0.1.2",
+    "jimp": "^0.16.1",
+    "through2": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "default"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC"
+}
